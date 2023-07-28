@@ -14,21 +14,22 @@
                     <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                         <ul class="navbar-nav">
                             <li class="nav-item dropdown">
-                                <a class="nav-link active" href="{{ route('home') }}">
+                                <a class="nav-link" href="#accueil">
                                     Accueil
                                 </a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#presentation-sectino">Présentation</a>
                             </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link" href="#notreproduit">
+                                    Notre Produit
+                                </a>
+                            </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#article-section">À la une</a>
                             </li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link" href="#service-section">
-                                    Nos services
-                                </a>
-                            </li>
+
                             <li class="nav-item dropdown">
                                 <a class="nav-link" href="{{ route('contact') }}">
                                     Contact

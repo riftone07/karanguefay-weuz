@@ -16,7 +16,7 @@
                 <div class="single text-center">
                     <div class="single-item text-center">
                         <div class="icon">
-                            <img src="{{ asset('images/usaid.png') }}" alt="icon">
+                            <img src="{{ asset('images/partenaires/USAID-logo.png') }}" alt="icon">
                         </div>
                     </div>
                 </div>
@@ -31,7 +31,7 @@
                 <div class="single text-center">
                     <div class="single-item text-center">
                         <div class="icon">
-                            <img src="{{ asset('images/makeri.png') }}" alt="icon">
+                            <img src="{{ asset('images/partenaires/logo.png') }}" alt="icon">
                         </div>
                     </div>
                 </div>
@@ -56,33 +56,17 @@
                 <div class="single text-center">
                     <div class="single-item text-center">
                         <div class="icon">
-                            <img src="{{ asset('images/isd.png') }}" alt="icon">
-                        </div>
-                    </div>
-                </div>
-
-                <div class="single text-center">
-                    <div class="single-item text-center">
-                        <div class="icon">
                             <img src="{{ asset('images/llllll.png') }}" alt="icon">
                         </div>
                     </div>
                 </div>
 
 
-                <div class="single text-center">
-                    <div class="single-item text-center">
-                        <div class="icon">
-                            <img src="{{ asset('images/logoo.png') }}" alt="icon">
-                        </div>
-                    </div>
-                </div>
-
 
                 <div class="single text-center">
                     <div class="single-item text-center">
                         <div class="icon">
-                            <img src="{{ asset('images/ms.png') }}" alt="icon">
+                            <img src="{{ asset('images/partenaires/Logo-MSAS.jpg') }}" alt="icon">
                         </div>
                     </div>
                 </div>

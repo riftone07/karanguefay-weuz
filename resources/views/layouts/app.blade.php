@@ -37,10 +37,6 @@
 
     @yield("content")
 
-    {{-- FAQ start --}}
-    @include("components.faq")
-    {{-- FAQ end --}}
-
     {{-- footer start --}}
     @include("components.footer")
     {{-- footer end --}}
@@ -55,6 +51,37 @@
     <script src="v2/assets/js/plugin/wow.min.js"></script>
     <script src="v2/assets/js/plugin/plugin.js"></script>
     <script src="v2/assets/js/main.js"></script>
+
+    <script>
+        // Attendre que le DOM soit chargé
+        document.addEventListener("DOMContentLoaded", function() {
+            // Récupérer les liens du menu
+            const menuLinks = document.querySelectorAll("nav ul li a");
+
+            // Fonction pour mettre à jour la classe active du menu
+            function updateActiveLink() {
+                const scrollPosition = window.scrollY;
+
+                // Parcourir chaque lien du menu pour vérifier quelle section est visible
+                menuLinks.forEach(link => {
+                    const sectionId = link.getAttribute("href");
+                    const section = document.querySelector(sectionId);
+
+                    // Vérifier si la section est visible dans la fenêtre de visualisation
+                    if (section.offsetTop <= scrollPosition && section.offsetTop + section.offsetHeight > scrollPosition) {
+                        // Ajouter la classe active au lien du menu correspondant
+                        link.classList.add("active");
+                    } else {
+                        // Supprimer la classe active si la section n'est pas visible
+                        link.classList.remove("active");
+                    }
+                });
+            }
+
+            // Mettre à jour la classe active du menu lors du défilement
+            window.addEventListener("scroll", updateActiveLink);
+        });
+    </script>
 </body>
 
 </html>

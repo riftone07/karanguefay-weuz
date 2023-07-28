@@ -6,8 +6,12 @@
                 <div class="row">
                     <div class="col-lg-6 d-flex align-items-center">
                         <div class="content-area">
-                            <h2>Nos Produits</h2>
-                            <p> Une plateforme unique pour vos paiements de masse vers des wallets</p>
+                            <h3>Qui Sommes Nous ?</h3>
+                            <p>
+                                Le projet Karangue Fay vise à numériser les paiements pour les
+                                travailleurs de la santé à travers sa plate-forme pour améliorer
+                                l'efficacité et la transparence du processus d'indemnisation.
+                            </p>
                             <ul class="feature">
                                 <li>
                                     <div class="icon"><img src="v2/assets/img/check-3.png" alt="icon"></div>
@@ -41,404 +45,168 @@
 </section>
 <!-- What you need In end -->
 
-<!-- How Its Work In start -->
-<section class="how-works inner-how-works index6 works" id="how-work">
+<section class="market-solutions" id="notreproduit">
     <div class="overlay pt-120 pb-120">
         <div class="container">
-            <div class="row d-flex justify-content-center">
-                <div class="col-lg-10">
-                    <div class="section-header text-center">
-                        <h2 class="title">comment ça marche</h2>
-                        <p>C’est plus facile que vous le penser. suivez 3 etapes simples et faciles</p>
-                    </div>
-                </div>
-            </div>
             <div class="row cus-mar">
-                <div class="col-lg-4 col-md-4">
-                    <div class="single-item d-grid justify-content-center">
-                        <div class="icon">
-                            <div class="iconbg">
-                                <img src="v2/assets/img/how-works-icon-3.png" alt="icon">
-                                <span class="xlr">01</span>
-                            </div>
-                        </div>
-                        <div class="bottom-icon">
-                            <h5>CREER UN COMPTE </h5>
-                        </div>
+                <div class="col-lg-7 d-flex align-items-center">
+                    <div class="section-header">
+                        <h2 class="title">Notre Produit</h2>
+                        <p>Bienvenue sur notre plateforme de paiement de masse dédiée aux agents de santé !
+                            Notre plateforme web est conçue pour simplifier et sécuriser les paiements vers les agents de santé
+                        </p>
+                        <a href="#" class="cmn-btn">En savoir plus</a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4">
-                    <div class="single-item second d-grid justify-content-center">
-                        <div class="icon">
-                            <div class="iconbg">
-                                <img src="v2/assets/img/how-works-icon-1.png" alt="icon">
-                                <span class="xlr second">02</span>
-                            </div>
-                        </div>
-                        <div class="bottom-icon">
-                            <h5>ENTRER LES  INFORMATIONS   </h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4">
-                    <div class="single-item d-grid justify-content-center">
-                        <div class="icon">
-                            <div class="iconbg">
-                                <img src="v2/assets/img/how-works-icon-2.png" alt="icon">
-                                <span class="xlr third">03</span>
-                            </div>
-                        </div>
-                        <div class="bottom-icon">
-                            <h5>CONFIRME ET ENVOIE</h5>
-                        </div>
-                    </div>
+                <div class="col-lg-5">
+                    <div class="market-carousel slick-initialized slick-slider slick-dotted"><button type="button" class="slick-prev pull-left slick-arrow" style=""><i class="icon-c-left-single" aria-hidden="true"></i></button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 5863px; transform: translate3d(-1804px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" style="width: 451px;" tabindex="-1"><div><div class="single" style="width: 100%; display: inline-block;">
+                                            <div class="single-item">
+                                                <div class="icon">
+                                                    <div class="iconbg">
+                                                        <img src="assets/img/market-icon-6.png" alt="icon">
+                                                    </div>
+                                                </div>
+                                                <div class="bottom text-center">
+                                                    <h5>Subscription services</h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="slick-slide" data-slick-index="0" aria-hidden="true" style="width: 451px;" role="tabpanel" id="slick-slide00" tabindex="-1"><div><div class="single" style="width: 100%; display: inline-block;">
+                                            <div class="single-item">
+                                                <div class="icon">
+                                                    <div class="iconbg">
+                                                        <img src="{{ asset('images/slide/ordi4.png') }}" alt="icon">
+                                                    </div>
+                                                </div>
+                                                <div class="bottom text-center">
+                                                    <h5>Online-Retail</h5>
+                                                </div>
+                                            </div>
+                                        </div></div></div><div class="slick-slide" data-slick-index="1" aria-hidden="true" style="width: 451px;" role="tabpanel" id="slick-slide01" tabindex="-1"><div><div class="single" style="width: 100%; display: inline-block;">
+                                            <div class="single-item">
+                                                <div class="icon">
+                                                    <div class="iconbg">
+                                                        <img src="{{ asset('images/slide/ordi3.png') }}" alt="icon">
+                                                    </div>
+                                                </div>
+                                                <div class="bottom text-center">
+                                                    <h5>Marketplaces</h5>
+                                                </div>
+                                            </div>
+                                        </div></div></div><div class="slick-slide" data-slick-index="2" aria-hidden="true" style="width: 451px;" role="tabpanel" id="slick-slide02" tabindex="-1"><div><div class="single" style="width: 100%; display: inline-block;">
+                                            <div class="single-item">
+                                                <div class="icon">
+                                                    <div class="iconbg">
+                                                        <img src="{{ asset('images/slide/ordi2.png') }}" alt="icon">
+                                                    </div>
+                                                </div>
+                                                <div class="bottom text-center">
+                                                    <h5>Games</h5>
+                                                </div>
+                                            </div>
+                                        </div></div></div>
+                                    <div class="slick-slide slick-current slick-active" data-slick-index="3" aria-hidden="false" style="width: 451px;" role="tabpanel" id="slick-slide03"><div><div class="single" style="width: 100%; display: inline-block;">
+                                            <div class="single-item">
+                                                <img src="{{ asset('images/slide/ordi1.png') }}" alt="icon">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    </div>
+                                <div class="slick-slide" data-slick-index="4" aria-hidden="true" style="width: 451px;" tabindex="-1" role="tabpanel" id="slick-slide04"><div><div class="single" style="width: 100%; display: inline-block;">
+                                            <div class="single-item">
+                                                <div class="icon">
+                                                    <div class="iconbg">
+                                                        <img src="assets/img/market-icon-5.png" alt="icon">
+                                                    </div>
+                                                </div>
+                                                <div class="bottom text-center">
+                                                    <h5>Utility Services</h5>
+                                                </div>
+                                            </div>
+                                        </div></div></div><div class="slick-slide" data-slick-index="5" aria-hidden="true" style="width: 451px;" tabindex="-1" role="tabpanel" id="slick-slide05"><div><div class="single" style="width: 100%; display: inline-block;">
+                                            <div class="single-item">
+                                                <div class="icon">
+                                                    <div class="iconbg">
+                                                        <img src="assets/img/market-icon-6.png" alt="icon">
+                                                    </div>
+                                                </div>
+                                                <div class="bottom text-center">
+                                                    <h5>Subscription services</h5>
+                                                </div>
+                                            </div>
+                                        </div></div></div><div class="slick-slide slick-cloned" data-slick-index="6" aria-hidden="true" style="width: 451px;" tabindex="-1"><div><div class="single" style="width: 100%; display: inline-block;">
+                                            <div class="single-item">
+                                                <div class="icon">
+                                                    <div class="iconbg">
+                                                        <img src="assets/img/market-icon-1.png" alt="icon">
+                                                    </div>
+                                                </div>
+                                                <div class="bottom text-center">
+                                                    <h5>Online-Retail</h5>
+                                                </div>
+                                            </div>
+                                        </div></div></div><div class="slick-slide slick-cloned" data-slick-index="7" aria-hidden="true" style="width: 451px;" tabindex="-1"><div><div class="single" style="width: 100%; display: inline-block;">
+                                            <div class="single-item">
+                                                <div class="icon">
+                                                    <div class="iconbg">
+                                                        <img src="assets/img/market-icon-2.png" alt="icon">
+                                                    </div>
+                                                </div>
+                                                <div class="bottom text-center">
+                                                    <h5>Marketplaces</h5>
+                                                </div>
+                                            </div>
+                                        </div></div></div><div class="slick-slide slick-cloned" data-slick-index="8" aria-hidden="true" style="width: 451px;" tabindex="-1"><div><div class="single" style="width: 100%; display: inline-block;">
+                                            <div class="single-item">
+                                                <div class="icon">
+                                                    <div class="iconbg">
+                                                        <img src="assets/img/market-icon-3.png" alt="icon">
+                                                    </div>
+                                                </div>
+                                                <div class="bottom text-center">
+                                                    <h5>Games</h5>
+                                                </div>
+                                            </div>
+                                        </div></div></div><div class="slick-slide slick-cloned" data-slick-index="9" aria-hidden="true" style="width: 451px;" tabindex="-1"><div><div class="single" style="width: 100%; display: inline-block;">
+                                            <div class="single-item">
+                                                <div class="icon">
+                                                    <div class="iconbg">
+                                                        <img src="assets/img/market-icon-4.png" alt="icon">
+                                                    </div>
+                                                </div>
+                                                <div class="bottom text-center">
+                                                    <h5>Travel</h5>
+                                                </div>
+                                            </div>
+                                        </div></div></div><div class="slick-slide slick-cloned" data-slick-index="10" aria-hidden="true" style="width: 451px;" tabindex="-1"><div><div class="single" style="width: 100%; display: inline-block;">
+                                            <div class="single-item">
+                                                <div class="icon">
+                                                    <div class="iconbg">
+                                                        <img src="assets/img/market-icon-5.png" alt="icon">
+                                                    </div>
+                                                </div>
+                                                <div class="bottom text-center">
+                                                    <h5>Utility Services</h5>
+                                                </div>
+                                            </div>
+                                        </div></div></div><div class="slick-slide slick-cloned" data-slick-index="11" aria-hidden="true" style="width: 451px;" tabindex="-1"><div><div class="single" style="width: 100%; display: inline-block;">
+                                            <div class="single-item">
+                                                <div class="icon">
+                                                    <div class="iconbg">
+                                                        <img src="assets/img/market-icon-6.png" alt="icon">
+                                                    </div>
+                                                </div>
+                                                <div class="bottom text-center">
+                                                    <h5>Subscription services</h5>
+                                                </div>
+                                            </div>
+                                        </div></div></div></div></div><button type="button" class="slick-next pull-right slick-arrow" style=""><i class="icon-d-right-single" aria-hidden="true"></i></button><ul class="section-dots" style="" role="tablist"><li class="" role="presentation"><a class="dot" role="button" title="1 of 6"><span class="string">1/6</span></a></li><li role="presentation" class=""><a class="dot" role="button" title="2 of 6"><span class="string">2/6</span></a></li><li role="presentation" class=""><a class="dot" role="button" title="3 of 6"><span class="string">3/6</span></a></li><li role="presentation" class="slick-active"><a class="dot" role="button" title="4 of 6"><span class="string">4/6</span></a></li><li role="presentation"><a class="dot" role="button" title="5 of 6"><span class="string">5/6</span></a></li><li role="presentation"><a class="dot" role="button" title="6 of 6"><span class="string">6/6</span></a></li></ul></div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- How Its Work In end -->
 
-    <!-- Comunity Section In Start -->
-    <section class="comunity-section pt-120 pb-120" id="service-section">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="section-header text-center">
-                        <h2 class="title">NOS PARTENAIRES</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="comunity-wrapper">
-         <div class="buttons">
 
-         </div>
-                <div class="comunity-area">
-
-                    <div class="comunity-item">
-                        <a href="#">
-                        <img src="{{ asset('images/ms.png') }}" alt="MS">
-                        </a>
-                    </div>
-
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/ms.png') }}" alt="MS">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/pnlp.png') }}" alt="Programme National de Lutte contre le Paludisme">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/usaid.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/usaid.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logomp.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logomp.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logomp.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logomp.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/ucad.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/ucad.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/isd.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/isd.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logoo.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logoo.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/100.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/100.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                        <a href="#">
-                            <img src="{{ asset('images/llllll.png') }}" alt="comunity">
-                        </a>
-                    </div>
-                    <div class="comunity-item">
-                        <a href="#">
-                            <img src="{{ asset('images/llllll.png') }}" alt="comunity">
-                        </a>
-                    </div>
-                    <div class="comunity-item">
-                        <a href="#">
-                            <img src="{{ asset('images/bmg.png') }}" alt="comunity">
-                        </a>
-                    </div>
-                    <div class="comunity-item">
-                        <a href="#">
-                            <img src="{{ asset('images/bmg.png') }}" alt="comunity">
-                        </a>
-                    </div>
-                </div>
-                <div class="comunity-area two">
-                      <div class="comunity-item">
-                        <a href="#">
-                        <img src="{{ asset('images/ms.png') }}" alt="MS">
-                        </a>
-                    </div>
-
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/ms.png') }}" alt="MS">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/pnlp.png') }}" alt="Programme National de Lutte contre le Paludisme">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/usaid.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/usaid.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logomp.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logomp.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logomp.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logomp.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/ucad.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/ucad.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/isd.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/isd.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logoo.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logoo.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/100.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/100.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                        <a href="#">
-                            <img src="{{ asset('images/llllll.png') }}" alt="comunity">
-                        </a>
-                    </div>
-                    <div class="comunity-item">
-                        <a href="#">
-                            <img src="{{ asset('images/llllll.png') }}" alt="comunity">
-                        </a>
-                    </div>
-                    <div class="comunity-item">
-                        <a href="#">
-                            <img src="{{ asset('images/bmg.png') }}" alt="comunity">
-                        </a>
-                    </div>
-                    <div class="comunity-item">
-                        <a href="#">
-                            <img src="{{ asset('images/bmg.png') }}" alt="comunity">
-                        </a>
-                    </div>
-                </div>
-                <div class="comunity-area three">
-                      <div class="comunity-item">
-                        <a href="#">
-                        <img src="{{ asset('images/ms.png') }}" alt="MS">
-                        </a>
-                    </div>
-
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/ms.png') }}" alt="MS">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/pnlp.png') }}" alt="Programme National de Lutte contre le Paludisme">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/usaid.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/usaid.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logomp.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logomp.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logomp.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logomp.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/ucad.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/ucad.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/isd.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/isd.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logoo.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/logoo.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/100.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                    <a href="#">
-                        <img src="{{ asset('images/100.png') }}" alt="comunity">
-                    </a>
-                    </div>
-                    <div class="comunity-item">
-                        <a href="#">
-                            <img src="{{ asset('images/llllll.png') }}" alt="comunity">
-                        </a>
-                    </div>
-                    <div class="comunity-item">
-                        <a href="#">
-                            <img src="{{ asset('images/llllll.png') }}" alt="comunity">
-                        </a>
-                    </div>
-                    <div class="comunity-item">
-                        <a href="#">
-                            <img src="{{ asset('images/bmg.png') }}" alt="comunity">
-                        </a>
-                    </div>
-                    <div class="comunity-item">
-                        <a href="#">
-                            <img src="{{ asset('images/bmg.png') }}" alt="comunity">
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Comunity Section In End -->

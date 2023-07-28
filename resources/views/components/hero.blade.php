@@ -1,5 +1,5 @@
 <!-- banner-section start -->
-<section class="banner-section">
+<section class="banner-section" id="accueil">
     <div class="banner-content d-flex align-items-center">
         <div class="container">
             <div class="illu-item">

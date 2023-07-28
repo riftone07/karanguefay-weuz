@@ -5,31 +5,7 @@
             <div class="section-header">
                 <div class="row justify-content-between">
                     <div class="col-xl-6">
-                        <h2 class="title">Actualité</h2>
-                    </div>
-                    <div class="col-xl-6 d-flex justify-content-xl-end justify-content-start">
-                        <ul class="nav nav-tabs" id="myTab" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="all-tab" data-bs-toggle="tab"
-                                    data-bs-target="#all" type="button" role="tab" aria-controls="all"
-                                    aria-selected="true">all</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="resources-tab" data-bs-toggle="tab"
-                                    data-bs-target="#resources" type="button" role="tab" aria-controls="resources"
-                                    aria-selected="false">resources</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="finance-tab" data-bs-toggle="tab"
-                                    data-bs-target="#finance" type="button" role="tab" aria-controls="finance"
-                                    aria-selected="false">finance</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="crypto-tab" data-bs-toggle="tab"
-                                    data-bs-target="#crypto" type="button" role="tab" aria-controls="crypto"
-                                    aria-selected="false">crypto</button>
-                            </li>
-                        </ul>
+                        <h2 class="title">Actualités</h2>
                     </div>
                 </div>
             </div>
@@ -488,3 +464,4 @@
     </div>
 </section>
 <!-- Latest Articles In end -->
+
