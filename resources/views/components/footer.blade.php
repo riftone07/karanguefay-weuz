@@ -62,10 +62,9 @@
                         </form>
                         <div class="social">
                             <ul class="d-flex">
-                                <li><a href="javascript:void(0)"><img src="v2/assets/img/facebook.png" alt="icon"></a></li>
-                                <li><a href="javascript:void(0)"><img src="v2/assets/img/twitter.png" alt="icon"></a></li>
-                                <li><a href="javascript:void(0)"><img src="v2/assets/img/instagram.png" alt="icon"></a></li>
-                                <li><a href="javascript:void(0)"><img src="v2/assets/img/linkedin.png" alt="icon"></a></li>
+                                <li><a href="https://www.youtube.com/@karanguefay"><img src="{{ asset('images/youtube.png') }}" alt="icon"></a></li>
+                                <li><a href="https://twitter.com/karanguefay2023?s=11&t=hLbsJjtEoz6j088tNOpSJg"><img src="v2/assets/img/twitter.png" alt="icon"></a></li>
+                                <li><a href="https://www.linkedin.com/company/karangue-fay/"><img src="v2/assets/img/linkedin.png" alt="icon"></a></li>
                             </ul>
                         </div>
                     </div>

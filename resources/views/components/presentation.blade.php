@@ -8,9 +8,7 @@
                         <div class="content-area">
                             <h3>Qui Sommes Nous ?</h3>
                             <p>
-                                Le projet Karangue Fay vise à numériser les paiements pour les
-                                travailleurs de la santé à travers sa plate-forme pour améliorer
-                                l'efficacité et la transparence du processus d'indemnisation.
+                                L'initiative vise à renforcer les preuves concernant les paiements numériques dans le secteur de la santé, en particulier lors de la campagne de chimio-prévention du paludisme saisonnier nommée Karangué Fay. L'équipe de recherche proposera un projet d'étude qui comprendra une étude de base avant l'intervention, la création d'une plateforme de paiement pour rémunérer les agents de santé pendant la campagne et une étude finale utilisant des méthodes quantitatives et qualitatives. Les régions de Kolda, Tambacounda et Kédougou seront la zone d'étude. Les résultats de cette étude seront partagés au niveau national et international.
                             </p>
                             <ul class="feature">
                                 <li>
