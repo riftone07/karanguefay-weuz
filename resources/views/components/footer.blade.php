@@ -45,7 +45,7 @@
                     <div class="single-area">
                         <h5>Support</h5>
                         <ul class="items">
-                            <li><a href="help-center.html">CGU</a></li>
+                            <li><a href="{{ route('cgu') }}">CGU</a></li>
                             <li><a href="faqs.html">FAQs</a></li>
                         </ul>
                     </div>

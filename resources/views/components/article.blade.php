@@ -17,28 +17,56 @@
                                 <div class="col-lg-6">
                                     <div class="single-area">
                                         <div class="top-item">
-                                            <img src="{{ asset('images/actu1.jpeg') }}" alt="image">
+                                            <img src="{{ asset('images/actu4.png') }}" alt="image">
                                         </div>
                                         <div class="bottom-item">
-                                            <a href="blog-single.html"><h5>Visite du directeur du Hub anglophone du projet, le professeur Peter Waiswai  à l'Institut de santé et développement (ISDE) de l'UCAD.</h5></a>
+                                            <a href="blog-single.html"><h5>Visite du Directeur du Hub anglophone du projet, le Professeur Peter Waiswai,
+                                                    du 21 au 22 juin 2023à l'Institut de Santé et Développement (ISED) de l'UCAD.</h5></a>
                                             <div class="date-area d-flex justify-content-between">
-                                                <a href="#">Details <img src="v2/assets/img/right-icon-5.png"
-                                                        alt="image"></a>
                                                 <p class="mdr"> 21 juin 2023</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
+
+                                <div class="col-lg-6">
+                                    <div class="single-area">
+                                        <div class="top-item">
+                                            <img src="{{ asset('images/actu1.jpeg') }}" alt="image">
+                                        </div>
+                                        <div class="bottom-item">
+                                            <a href="blog-single.html"><h5>Visite du directeur du Hub anglophone du projet, le professeur Peter Waiswai  à l'Institut de santé et développement (ISDE) de l'UCAD.</h5></a>
+                                            <div class="date-area d-flex justify-content-between">
+                                                <p class="mdr"> 21 juin 2023</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
                                 <div class="col-lg-6">
                                     <div class="single-area">
                                         <div class="top-item">
                                             <img src="{{ asset('images/actu2.jpeg') }}" alt="image">
                                         </div>
                                         <div class="bottom-item">
-                                            <a href="blog-single.html"><h5> Présentation de Karangue Fay aux Directeurs régionaux de la santé de Kedougou, Kolda et Tambacounda a l’Hotel Radisson Blu</h5></a>
+                                            <a href="blog-single.html"><h5> Dr Bayal Cisse DRS de Tambacounda, Dr Yaya Balde DRS de Kokda et Dr
+                                                    ABabacar Mbaye DSR de Kedougou</h5></a>
                                             <div class="date-area d-flex justify-content-between">
-                                                <a href="#">Details <img src="v2/assets/img/right-icon-5.png"
-                                                        alt="image"></a>
+                                                <p class="mdr">06 juillet 2023</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-6">
+                                    <div class="single-area">
+                                        <div class="top-item">
+                                            <img src="{{ asset('images/actu2.jpeg') }}" alt="image">
+                                        </div>
+                                        <div class="bottom-item">
+                                            <a href="blog-single.html"><h5> Dr Bayal Cisse DRS de Tambacounda, Dr Yaya Balde DRS de Kokda et Dr
+                                                    ABabacar Mbaye DSR de Kedougou</h5></a>
+                                            <div class="date-area d-flex justify-content-between">
                                                 <p class="mdr">06 juillet 2023</p>
                                             </div>
                                         </div>

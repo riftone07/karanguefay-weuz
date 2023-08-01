@@ -8,27 +8,24 @@
                         <div class="content-area">
                             <h3>Qui Sommes Nous ?</h3>
                             <p>
-                                L'initiative vise à renforcer les preuves concernant les paiements numériques dans le secteur de la santé, en particulier lors de la campagne de chimio-prévention du paludisme saisonnier nommée Karangué Fay. L'équipe de recherche proposera un projet d'étude qui comprendra une étude de base avant l'intervention, la création d'une plateforme de paiement pour rémunérer les agents de santé pendant la campagne et une étude finale utilisant des méthodes quantitatives et qualitatives. Les régions de Kolda, Tambacounda et Kédougou seront la zone d'étude. Les résultats de cette étude seront partagés au niveau national et international.
+                                Le projet « Digital Health Payment Initiative and Research in Africa (DHPI-R) »,
+
+                                initié par la Fondation Bill et Melinda Gates et mise en œuvre par l'école de
+                                santé publique de l'université de Makerere (MakSPH) en Ouganda et
+                                l'université Cheikh Anta Diop de Dakar au Sénégal (UCAD).
+                                L'initiative vise à renforcer les preuves concernant les paiements numériques
+
+                                dans le secteur de la santé, en particulier lors de la campagne de chimio-
+                                prévention du paludisme saisonnier nommée Karangue Fay. L'équipe de
+
+                                recherche proposera un projet d'étude qui comprendra une étude de base
+                                avant l'intervention, la création d'une plateforme de paiement pour rémunérer
+                                les agents de santé pendant la campagne et une étude finale utilisant des
+                                méthodes quantitatives et qualitatives. Les régions de Kolda, Tambacounda et
+                                Kédougou seront la zone d'étude. Les résultats de cette étude seront partagés
+                                au niveau national et international.
                             </p>
-                            <ul class="feature">
-                                <li>
-                                    <div class="icon"><img src="v2/assets/img/check-3.png" alt="icon"></div>
-                                    Orange Moneey
-                                </li>
-                                <li>
-                                    <div class="icon"><img src="v2/assets/img/check-3.png" alt="icon"></div>
-                                    Wave
-                                </li>
-                                <li>
-                                    <div class="icon"><img src="v2/assets/img/check-3.png" alt="icon"></div>
-                                    Free Money
-                                </li>
-                            </ul>
-                            <div class="app-market">
-                                <a href="javascript:void(0)"><img src="{{ asset('images/Orange-Money-logo.jpeg') }}" alt="" width="75"></a>
-                                <a href="javascript:void(0)"><img src="{{ asset('images/wave-senegal-mobile-money.png') }}" alt="wave" width="75"></a>
-                                <a href="javascript:void(0)"><img src="{{ asset('images/free.jpeg') }}" alt="free" width="75"></a>
-                            </div>
+
                         </div>
                     </div>
                     <div class="col-lg-6 d-flex justify-content-center align-items-center">
@@ -49,9 +46,10 @@
             <div class="row cus-mar">
                 <div class="col-lg-7 d-flex align-items-center">
                     <div class="section-header">
-                        <h2 class="title">Notre Produit</h2>
-                        <p>Bienvenue sur notre plateforme de paiement de masse dédiée aux agents de santé !
-                            Notre plateforme web est conçue pour simplifier et sécuriser les paiements vers les agents de santé
+                        <h2 class="title">Nos services</h2>
+                        <p>Bienvenue sur notre plateforme de paiement de masse dédiée aux agents de
+                            santé ! Notre plateforme web est conçue pour simplifier et sécuriser le
+                            paiement des agents de santé
                         </p>
                         <a href="#" class="cmn-btn">En savoir plus</a>
                     </div>

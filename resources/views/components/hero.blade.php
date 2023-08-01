@@ -17,7 +17,7 @@
                             <div class="bottom-banner d-flex align-items-center">
                                 <div class="left">
                                     <a class="icon mfp-iframe popupvideo"
-                                        href="https://www.youtube.com/watch?v=MJ0zpsWQ_XM">
+                                        href="https://www.youtube.com/@karanguefay">
                                         <img src="v2/assets/img/video-icon.png" alt="icon">
                                     </a>
                                 </div>
