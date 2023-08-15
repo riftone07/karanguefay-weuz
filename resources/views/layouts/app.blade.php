@@ -16,6 +16,14 @@
     <link rel="stylesheet" href="v2/assets/css/plugin/magnific-popup.css">
     <link rel="stylesheet" href="v2/assets/css/plugin/animate.css">
     <link rel="stylesheet" href="{{ asset('v2/assets/css/style.css') }}">
+    <style>
+        .banner-section {
+            background-image: url({{ asset('images/banners..jpg') }}) !important;
+            background-repeat: no-repeat;
+            background-size: 100% 101%;
+            padding: 230px 0 150px;
+        }
+    </style>
 </head>
 
 <body>

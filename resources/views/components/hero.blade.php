@@ -31,7 +31,6 @@
                 </div>
             </div>
             <div class="right-illu">
-                <img class="right-1 wow fadeInUp" src="v2/assets/img/ban-right.png" alt="image">
             </div>
         </div>
     </div>
