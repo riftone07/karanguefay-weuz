@@ -78,8 +78,8 @@
                 <div class="row d-flex align-items-center">
                     <div class="col-lg-6 col-md-8 cus-order d-flex justify-content-md-start justify-content-center">
                         <div class="left-area">
-                            <p class="mdr">KARANGUE FAY. <span>|</span> Designed by
-                                <a href="https://ids.sn">IDS</a>
+                            <p class="mdr">KARANGUE FAY. <span>{{--|</span> Designed by
+                                <a href="https://ids.sn">IDS</a>--}}
                             </p>
                         </div>
                     </div>

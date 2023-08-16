@@ -71,6 +71,15 @@
                     </div>
                 </div>
 
+
+                <div class="single text-center">
+                    <div class="single-item text-center">
+                        <div class="icon">
+                            <img src="{{ asset('images/LOGOIDS.png') }}" alt="icon">
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>

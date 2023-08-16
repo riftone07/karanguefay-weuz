@@ -38,7 +38,7 @@
                         <img alt="icon" loading="lazy" width="235" height="259" decoding="async" data-nimg="1" srcset="{{ asset('images/equipes/ousseynou.jpeg') }}" src="{{ asset('images/equipes/ousseynou.jpeg') }}" style="color: transparent;">
                         <div class="text-area">
                             <a href="#"><h6>OUSSEYNOU DIOP</h6></a>
-                            <span class="smr">Responsable de projets informatique IDS</span>
+                            <span class="smr">Responsable du projet informatique </span>
                         </div>
                     </div>
                 </div>
@@ -80,7 +80,7 @@
                         <img alt="icon" loading="lazy" width="235" height="259" decoding="async" data-nimg="1" srcset="{{ asset('images/equipes/coumba.jpeg') }}" src="{{ asset('images/equipes/coumba.jpeg') }}" style="color: transparent;">
                         <div class="text-area">
                             <a href="#"><h6>COUMBA SEYE</h6></a>
-                            <span class="smr">Responsable Communication  chez IDS </span>
+                            <span class="smr">Community Manager du projet </span>
                         </div>
                     </div>
                 </div>
