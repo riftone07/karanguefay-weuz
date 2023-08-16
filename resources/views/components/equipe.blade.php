@@ -1,10 +1,10 @@
 <section class="team-member">
     <div class="overlay pb-120">
         <div class="container">
-            <div class="row d-flex justify-content-center">
-                <div class="col-lg-12 d-flex justify-content-center">
-                    <div class="section-header text-center">
-                        <h2 class="title">NOTRE ÉQUIPE DE RECHERCHE</h2>
+            <div class="row d-flex">
+                <div class="col-lg-12 d-flex ">
+                    <div class="section-header">
+                        <h2 class="title">ÉQUIPE DE RECHERCHE</h2>
                     </div>
                 </div>
             </div>

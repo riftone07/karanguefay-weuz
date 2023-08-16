@@ -17,11 +17,16 @@
     <link rel="stylesheet" href="v2/assets/css/plugin/animate.css">
     <link rel="stylesheet" href="{{ asset('v2/assets/css/style.css') }}">
     <style>
-        .banner-section {
-            background-image: url({{ asset('images/banners..jpg') }}) !important;
-            background-repeat: no-repeat;
-            background-size: 100% 101%;
-            padding: 230px 0 150px;
+        .market-solutions .single-item .iconbg {
+            background: #FBFAFF;
+            border: 1px solid #DBD2FF;
+            /* border-radius: 70px; */
+            width: 240px;
+            height: 240px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto;
         }
     </style>
 </head>
