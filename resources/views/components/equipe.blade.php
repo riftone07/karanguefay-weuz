@@ -69,7 +69,7 @@
                         <img alt="icon" loading="lazy" width="235" height="259" decoding="async" data-nimg="1" srcset="{{ asset('images/equipes/saliou.jpeg') }}" src="{{ asset('images/equipes/saliou.jpeg') }}" style="color: transparent;">
                         <div class="text-area">
                             <a href="#"><h6>Saliou SENE</h6></a>
-                            <span class="smr">Informaticien du projet</span>
+                            <span class="smr">Informaticien de Sedhiou</span>
                         </div>
                     </div>
                 </div>
